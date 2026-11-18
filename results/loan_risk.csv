@@ -1,0 +1,5 @@
+"amount_quartile","loan_count","min_loan_amount","max_loan_amount","problematic_loans","problematic_pct"
+1,171,4980,66696,13,7.60
+2,171,66840,117024,13,7.60
+3,170,117420,210744,16,9.41
+4,170,212400,590820,34,20.00
